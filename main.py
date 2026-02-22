@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Example run script for Neural Digit package.
 
@@ -34,3 +34,4 @@ from NeuralDigit.cli import main    #Change this "from" import if your main func
 
 if __name__ == "__main__":
     sys.exit(main())
+
